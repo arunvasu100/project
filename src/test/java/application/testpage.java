@@ -15,7 +15,7 @@ public class testpage {
 
 	    
 	    @Test
-	    public void verifysize() {
+	    public void verifysize12345() {
 	    Assert.assertTrue(homePage.isElementVisible(homePage.verfiysize()));
 	    
 	    }
